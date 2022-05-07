@@ -1,2 +1,3 @@
-# Bot_para_filas_do_LOL
-Bot que aceitará a fila no lol, e te mandará um e-mail quando isso acontecer, é possível configura-lo para enviar mensagens por Instagram. 
+# Bot para filas do LOL 🤖 + 🐍
+Bot, feito em python, que aceitará a fila do lol quando você estiver no cafofo da sua lareira, tomando cafézinho, ao lado do "Pituca" seu adorável cachorrinho. 🐕 
+Vídeo referência: https://www.youtube.com/watch?v=yN_Gj9AYjF8
